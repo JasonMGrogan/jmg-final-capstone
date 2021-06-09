@@ -1,4 +1,4 @@
-# React with Bootstrap Starter Project
+# Final Capstone Project for Bottega
 
 > Provided for the students of the [Bottega Code School](https://bottega.tech/)
 
